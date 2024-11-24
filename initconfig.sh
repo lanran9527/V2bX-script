@@ -482,8 +482,8 @@ EOF
       {
         "tag": "geosite-cn",
         "type": "remote",
-        "format": "source",
-        "url": "https://raw.githubusercontent.com/lanran9527/sing-box-rules/refs/heads/main/geosite-cn.json",
+        "format": "binary",
+        "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/cn.srs",
         "download_detour": "direct"
       },
       {
