@@ -840,7 +840,7 @@ EOF
       {
         "tag": "geosite-cn",
         "type": "remote",
-        "format": "binary",
+        "format": "source",
         "url": "https://raw.githubusercontent.com/lanran9527/sing-box-rules/refs/heads/main/geosite-cn.json",
         "download_detour": "direct"
       },
